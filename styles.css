@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Madeline Jordan's Website</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Additional styles can be added here */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 20px;
+            padding: 0;
+        }
+
+        h1, h4, h5 {
+            color: #333;
+            text-align: center;
+        }
+
+        a {
+            text-decoration: none;
+            color: #0066cc;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            display: block;
+            margin: 0 auto; /* Center the image */
+        }
+    </style>
+</head>
+<body>
+    <h1>Madeline Jordan</h1>
+    <h4>Welcome to My Website!</h4>
+
+    <p>Hello world!</p>
+
+    <a href="hellooooo.html">Resume</a>
+
+    <p class="joy">Here is a bit more text</p>
+
+    <a href="https://www.churchofjesuschrist.org/comeuntochrist">Come Unto Christ</a><br>
+    
+    <a href="https://www.mymission.com/lds-missions/florida-orlando-mission">Explore My Mission in Florida</a><br>
+
+    <h5>Alexis</h5><br>
+
+    <img src="https://i.pinimg.com/564x/49/96/e7/4996e73d4869256810f0f7a0f27e9ccd.jpg" alt="Alexis Image"><br>
+
+    <a href="#">Back to Top</a>
+</body>
+</html>
+
